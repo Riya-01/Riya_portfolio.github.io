@@ -1,0 +1,176 @@
+/* this is the css file to style my portfolio */
+
+title{
+ font-family: "Times New Roman", Times, serif;
+
+ }
+
+
+header{
+   height:50px;
+   background-color:black;
+   width:100%
+   }
+
+.top{
+  
+  
+   max-width:100%;
+   padding:0 15px;
+   margin:0 auto;
+   
+   
+}
+
+.logo img{
+   
+   padding-top:5px
+   width:50px;
+   height:40px;
+   border:5px solid black;
+   float:left;
+   }
+
+.list li{
+  color:white;
+  float:right;
+  padding:10px;
+  list-style:none;
+
+
+
+  }
+.list a{
+ display:block;
+ transition:all 0.5s;
+ line-height:25px;
+ color:white;
+ padding:0 25px;
+ 
+ 
+ }
+
+.list a:hover{
+ background-color:rgba(255,255,255,0.3);}
+ 
+ 
+.welcome{
+ width:700px;
+ height:700px;
+ padding: 0 15px;
+ margin: 0 auto;
+ }
+
+.backimg {
+  background-color:#20b2aa;
+  border:0.5px solid black;
+}
+
+.backimg h1,p{
+  opacity:0.7;
+  text-align:center;}
+  
+.back img{
+   float:left;
+   padding-top:70px;
+   position:center;
+   padding-left:200px;
+   width:500px;
+   height:600px;
+  
+   background-image: url('images.png');
+   border:1px solid black;}
+
+.back h1{
+ position:absolute;
+ padding-left:7px;
+ padding-top:55px;
+ 
+ }
+
+.back h4{
+ position: absolute;
+ padding-left:7px;
+ padding-top:115px;
+ font-size:20px;}
+
+.back h5{
+ position:absolute;
+ padding-left:7px;
+ padding-top:145px;
+ font-size:20px;}
+
+.back h6{
+ position:absolute;
+ padding-left:7px;
+ padding-top:175px;
+ font-size:20px;}
+
+ .content {
+ text align:right;
+ color:red;
+ float:right;
+ padding-top:90px;
+ padding-right:500px;}
+
+.profile a{
+ font-size:25px;
+ padding-bottom:5px;}
+
+.project {
+ width:100%;
+ text-align:center;
+ padding:180px 0 100px 0;
+ background-color:#659EC7;
+ }
+
+.project-title a{
+ font-size:25px;
+ padding-bottom:5px;}
+
+.main h1{
+ font-family: "Times New Roman", Times, serif;
+ border-top:1px solid black;
+ border-bottom:1px solid black;}
+
+.main h3{
+ font-size:25px;
+ color:black;}
+
+.main p{
+ font-size:20px;
+ color:white;}
+
+footer{
+   height:50px;
+   background-color:black;
+   width:100%
+   }
+
+.bottom{
+  
+  
+   max-width:100%;
+   padding:0 15px;
+   margin:0 auto;
+   
+   
+}
+
+.logo1 img{
+   
+   padding-top:5px
+   width:50px;
+   height:40px;
+   border:5px solid black;
+   float:left
+   }
+.list1 li{
+  color:white;
+  float:right;
+  padding:10px;
+  list-style:none;
+
+
+
+  }
